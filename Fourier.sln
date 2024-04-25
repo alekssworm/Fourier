@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Fourier", "Fourier\Fourier.pyproj", "{061DE0F6-61BC-4AB9-9032-9FE14EFC75A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{061DE0F6-61BC-4AB9-9032-9FE14EFC75A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061DE0F6-61BC-4AB9-9032-9FE14EFC75A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C38EE5-23E6-40C9-AA02-E8695D9E2733}
+	EndGlobalSection
+EndGlobal
